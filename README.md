@@ -1,6 +1,6 @@
 # Carrinho de Compras
 
-Gerenciador de Tarefas
+Aplicativo de Compras
 
 Desenvolvido em React Native
 
