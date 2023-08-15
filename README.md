@@ -13,8 +13,6 @@ Desenvolvido em React Native
 ![Capturar3](https://github.com/TacioPatez/compras/assets/85260969/eb8e524b-aa37-4d9d-89fc-a97d548c3486)
 
 
-## Ferramentas e dependencias usadas:
-
 ## Instalação
 
 ```
